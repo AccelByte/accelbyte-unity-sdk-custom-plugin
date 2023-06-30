@@ -1,0 +1,29 @@
+{
+  "name": "com.accelbyte.unitysdk.custom",
+  "displayName": "AccelByte Unity Custom Extension",
+  "version": "0.0.0",
+  "unity": "2020.2",
+  "description": "Custom Extension of AccelByte SDK",
+  "keywords": [
+    "accelbyte",
+    "custom sdk extension"
+  ],
+  "author": {
+    "name": "AccelByte Inc",
+    "url": "https://accelbyte.io/"
+  },
+  "changelogUrl": "",
+  "documentationUrl": "",
+  "hideInEditor": false,
+  "category": "editor extensions",
+  "homepage": "https://accelbyte.io/",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "bugs": "",
+  "type": "library",
+  "dependencies": {
+    "com.accelbyte.unitysdk": "15.16.2"
+  }
+}
